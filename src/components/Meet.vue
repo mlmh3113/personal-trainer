@@ -2,7 +2,7 @@
     <div class="flex flex-col  container mx-auto md:grid md:grid-cols-2 gap-4 py-10 dark:bg-gray-900 dark:text-white">
 
         <div class="w-full col-span-1 ">
-            <img class="flex mx-auto object-cover border-2 border-teal-500 p-3 rounded-full w-64 h-64  md:w-96 md:h-96 " src="/img/fitness_11.jpg"
+            <img class="flex mx-auto object-cover border-2 border-teal-500 p-3 rounded-full w-64 h-64  md:w-96 md:h-96 " src="../assets/img/fitness_11.jpg"
                 alt="training_11">
         </div>
 

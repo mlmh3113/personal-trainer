@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: 'https://mlmh3113.github.io/personal-trainer',
+  base: '/personal-trainer',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
